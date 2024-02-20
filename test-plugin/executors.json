@@ -1,0 +1,9 @@
+{
+  "executors": {
+    "test-exec": {
+      "implementation": "./src/executors/test-exec/executor",
+      "schema": "./src/executors/test-exec/schema.json",
+      "description": "test-exec executor"
+    }
+  }
+}

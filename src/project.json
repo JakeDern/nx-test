@@ -1,0 +1,11 @@
+{
+    "name": "nx-test",
+    "targets": {
+      "test": {
+        "executor": "test-plugin:test-exec",
+            "options": {
+            }
+        }
+    }
+}
+  

@@ -1,5 +1,5 @@
 {
-  "name": "nx-test",
+  "name": "foo",
   "targets": {
     "test": {
       "executor": "nx:run-commands",
